@@ -4,5 +4,6 @@ pizar almaulidina heryanto
 
 aplikasi untuk mengelola daftar tugas yang akan dilakukan
 
-![Uploading TaskFlow - Profile 1 - Microsoft​ Edge 12_7_2025 11_51_21 PM.png…]()
+<img width="1920" height="1040" alt="TaskFlow - Profile 1 - Microsoft​ Edge 12_7_2025 11_51_21 PM" src="https://github.com/user-attachments/assets/31dfb2f9-6ca8-4bca-80be-3575930f855d" />
+
 
